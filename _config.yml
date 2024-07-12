@@ -52,8 +52,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 474f8c9f39bef173d368
-  clientSecret: e8c25a891c503b69fa871e8bd5a973d8a52db645
+  clientID: Ov23liAx5SmZ658qPTLX
+  clientSecret: e3dc302e971b2b709eef905e7e5309642f6f4434
   repo: YiZhiDaNengMao.github.io
   owner: YiZhiDaNengMao
 
